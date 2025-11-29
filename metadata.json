@@ -1,0 +1,5 @@
+{
+  "name": "React IPTV Player",
+  "description": "A TV-interface optimized IPTV player for React. Features M3U playlist parsing, HLS video support, and D-pad compatible navigation.",
+  "requestFramePermissions": []
+}
